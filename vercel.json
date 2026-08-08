@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "functions": { "api/*.js": { "runtime": "nodejs22.x" } },
+  "crons": [
+    { "path": "/api/automation", "schedule": "0 13 * * *" }
+  ]
+}
