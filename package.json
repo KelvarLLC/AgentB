@@ -1,0 +1,7 @@
+{
+  "name": "62-ways-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Free customer-facing business tools and automation hub.",
+  "scripts": { "start": "vercel dev" }
+}
